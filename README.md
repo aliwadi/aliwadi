@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I am a highly-enthusiastic published scholar with a knack for technology, research, and everything robotics!
 
-I have been working in higher education for the past 6+ years now and I am in the look out for challenges where I can apply my background to tackle interesting projects.
+I have been working in higher education for the past 6+ years now and I am always in the look out for challenges where I can tackle interesting projects.
 
 I teach a wide array of Undergraduate/Graduate courses and I engage in research ventures to grow my knowledge in the fields of: Modeling, Dynamics, Control, Estimation Theory, Drug Delivery Systems & System Identification.
 
