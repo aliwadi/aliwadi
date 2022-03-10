@@ -27,10 +27,9 @@ If you'd like to get in touch with me, you can reach me at <awadi@ieee.org>.
 ## Find me around the web: <a href="https://giuseppesilano.net/cv.html"><img align="left" width="250" height="250" src="https://github.com/gsilano/gsilano/blob/master/octocat_transparent.png"></a>
 - <a href="https://publons.com/researcher/3750839/ali-wadi/">Publons</a> 
 - <a href="https://gist.github.com/ali94wadi">Gist</a> 
-- <a href="https://www.youtube.com/channel/UC33d3qW1EU4jH1fi36Hzc1Q">YouTube</a> 
 - <a href="https://www.linkedin.com/in/ali94wadi/">LinkedIn</a> 
 - <a href="https://scholar.google.com/citations?user=J1IwyQkAAAAJ&hl=en">Google Scholar</a> 
-- <a href="https://www.researchgate.net/profile/Giuseppe_Silano">Researchgate</a> 
+- <a href="https://www.researchgate.net/profile/Ali-Wadi">Researchgate</a> 
 - <a href="https://orcid.org/0000-0002-4617-7026">ORCID</a> 
 - <a href="https://www.aus.edu/faculty/ali-wadi">Website</a> 
 
