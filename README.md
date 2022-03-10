@@ -24,7 +24,7 @@ Here you can find out more about [my research activities](https://scholar.google
 
 If you'd like to get in touch with me, you can reach me at <awadi@ieee.org>.
 
-## Find me around the web: <a href="https://giuseppesilano.net/cv.html"><img align="left" width="250" height="500" src="https://github.com/gsilano/gsilano/blob/master/octocat_transparent.png"></a>
+## Find me around the web: <a href="https://giuseppesilano.net/cv.html"><img align="left" width="250" height="250" src="https://github.com/gsilano/gsilano/blob/master/octocat_transparent.png"></a>
 - <a href="https://publons.com/researcher/3750839/ali-wadi/">Publons</a> 
 - <a href="https://gist.github.com/ali94wadi">Gist</a> 
 - <a href="https://www.linkedin.com/in/ali94wadi/">LinkedIn</a> 
