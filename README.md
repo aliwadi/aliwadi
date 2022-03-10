@@ -38,6 +38,6 @@ If you'd like to get in touch with me, you can reach me at <awadi@ieee.org>.
 <img height="auto" width="43%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ali94wadi&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
 <img src ="https://github-readme-streak-stats.herokuapp.com?user=gsilano&theme=dark&hide_border=true&background=FFFFFF00">
 </p>
-<code><img height="20" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali94wadi&layout=compact"><img src ="https://github.com/anuraghazra/github-readme-stats"></code>   
+<code><img height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali94wadi&layout=compact"><img src ="https://github.com/anuraghazra/github-readme-stats"></code>   
 
 Credit: [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
