@@ -1,4 +1,4 @@
-### Hi there! I'm Ali 👋
+### Hi there! I'm Ali :vulcan_salute:
 
 <!--
 **ali94wadi/ali94wadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
