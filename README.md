@@ -18,13 +18,11 @@ I am a highly-enthusiastic published scholar with a knack for technology, resear
 
 I have been working in higher education for the past 6+ years now and I am always in the look out for challenges where I can tackle interesting projects.
 
-I teach a wide array of Undergraduate/Graduate courses and I engage in research ventures to grow my knowledge in the fields of: Modeling, Dynamics, Control, Estimation Theory, Drug Delivery Systems & System Identification.
-
-Here you can find out more about [my research activities](https://scholar.google.com/citations?user=J1IwyQkAAAAJ&hl=en).
+I teach a wide array of Undergraduate/Graduate courses, and I enjoy doing research in the fields of: Modeling, Dynamics, Control, Estimation Theory, Drug Delivery Systems, Structural Health Monitring & System Identification.
 
 If you'd like to get in touch with me, you can reach me at <awadi@ieee.org>.
 
-## Find me around the web: <a href="https://giuseppesilano.net/cv.html"><img align="left" width="250" height="250" src="https://github.com/gsilano/gsilano/blob/master/octocat_transparent.png"></a>
+## Find me around the web: <a href=""><img align="left" width="250" height="250" src=""></a>
 - <a href="https://publons.com/researcher/3750839/ali-wadi/">Publons</a> 
 - <a href="https://gist.github.com/ali94wadi">Gist</a> 
 - <a href="https://www.linkedin.com/in/ali94wadi/">LinkedIn</a> 
