@@ -14,11 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a highly-enthusiastic published scholar with a knack for technology, research, and everything robotics!
+I am a published scholar with a knack for technology, research, and everything robotics!
 
-I have been working in higher education for the past 6+ years now and I am always in the look out for challenges where I can tackle interesting projects.
+I have been working in higher education teaching on an undergraduate/graduate level for the past ~7+ years. I have also been doing
+research and publishing in refereed academic journals and conference proceedings. I am in the look out for challenges where I can
+apply my unique background to tackle interesting projects.
 
-I teach a wide array of Undergraduate/Graduate courses, and I enjoy doing research in the fields of: Modeling, Dynamics, Control, Estimation Theory, Drug Delivery Systems, Structural Health Monitring & System Identification.
+My teaching and research both touch on: Modeling, Dynamics, Control, Estimation Theory, Drug Delivery Systems, Structural Health Monitring & System Identification.
 
 If you'd like to get in touch with me, you can reach me at <awadi@ieee.org>.
 
