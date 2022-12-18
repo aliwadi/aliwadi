@@ -50,7 +50,7 @@ If you'd like to get in touch with me, you can reach me at <awadi@ieee.org>.
 - <a href="https://www.aus.edu/faculty/ali-wadi">Website</a> 
 
 <p align="center">
-<img height="auto" width=50%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ali94wadi&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,css,php">
+<img height="auto" width=40%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ali94wadi&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,css,php">
 <img src ="https://github-readme-streak-stats.herokuapp.com?user=ali94wadi&theme=dark&hide_border=true&background=FFFFFF00">
 </p>
 
