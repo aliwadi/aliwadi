@@ -24,6 +24,7 @@ My teaching and research both touch on: Modeling, Dynamics, Control, Estimation 
 
 If you'd like to get in touch with me, you can reach me at <awadi@ieee.org>.
 
+<!--
 ## Find me around the web: <a href=""><img align="left" width="250" height="250" src=""></a>
 - <a href="https://publons.com/researcher/3750839/ali-wadi/">Publons</a> 
 - <a href="https://gist.github.com/ali94wadi">Gist</a> 
@@ -33,9 +34,23 @@ If you'd like to get in touch with me, you can reach me at <awadi@ieee.org>.
 - <a href="https://orcid.org/0000-0002-4617-7026">ORCID</a> 
 - <a href="https://www.aus.edu/faculty/ali-wadi">Website</a> 
 
+
 <p align="center">
 <img height="auto" width="55%" src ="https://github-readme-stats.vercel.app/api?username=ali94wadi&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=00000000">
-<img height="auto" width="40%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ali94wadi&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,css,php">
+</p>
+-->
+
+## Find me around the web: <a href=""><img align="right" width="60%" height="auto" src="https://github-readme-stats.vercel.app/api?username=ali94wadi&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=00000000"></a>
+- <a href="https://publons.com/researcher/3750839/ali-wadi/">Publons</a> 
+- <a href="https://gist.github.com/ali94wadi">Gist</a> 
+- <a href="https://www.linkedin.com/in/ali94wadi/">LinkedIn</a> 
+- <a href="https://scholar.google.com/citations?user=J1IwyQkAAAAJ&hl=en">Google Scholar</a> 
+- <a href="https://www.researchgate.net/profile/Ali-Wadi">Researchgate</a> 
+- <a href="https://orcid.org/0000-0002-4617-7026">ORCID</a> 
+- <a href="https://www.aus.edu/faculty/ali-wadi">Website</a> 
+
+<p align="center">
+<img height="auto" width=50%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ali94wadi&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,css,php">
 <img src ="https://github-readme-streak-stats.herokuapp.com?user=ali94wadi&theme=dark&hide_border=true&background=FFFFFF00">
 </p>
 
