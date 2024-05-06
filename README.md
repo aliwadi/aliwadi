@@ -1,5 +1,5 @@
 ### Hi there! I'm Ali :vulcan_salute:
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly;new+line)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&random=false&width=435&lines=TEST+TEST;new+line)](https://git.io/typing-svg)
 <!--
 **ali94wadi/ali94wadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
