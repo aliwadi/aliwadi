@@ -2,7 +2,7 @@
 
 **Researcher │ Educator │ Mechanical & Aerospace Control Engineer**
 
-I specialize in modeling, dynamics, control and estimation theory, with applications in structural health monitoring and drug‐delivery systems. I’ve spent over seven years teaching at the undergraduate and graduate level, and I’m always looking for new research challenges and collaborations.
+I specialize in Robotics, System Identification, Control Theory, Game Theory, Cyber-physical Systems, Autonomy, and Reinforcement Learning. I'm an experienced academic with over 8 years of experience in higher education & scientific research, and I’m always looking for new research challenges and collaborations.
 
 ---
 
