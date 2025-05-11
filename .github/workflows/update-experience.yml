@@ -17,7 +17,7 @@ jobs:
         id: years
         run: |
           # GitHub’s new way to set outputs (instead of ::set-output)
-          echo "years=$(( $(date +'%Y') - 2012 ))" >> $GITHUB_OUTPUT
+          echo "years=$(( $(date +'%Y') - 2016 ))" >> $GITHUB_OUTPUT
 
       - name: Update README
         run: |
