@@ -3,7 +3,8 @@ name: Update Experience Years
 # Run on the 1st of every month at midnight UTC 
 on:
   schedule:
-    - cron: '* * * * *'
+    - cron: '0 0 1 * *'
+  workflow_dispatch:
 
 jobs:
   calc-and-commit:
