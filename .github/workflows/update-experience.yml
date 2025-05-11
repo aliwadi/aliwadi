@@ -1,6 +1,6 @@
 name: Update Experience Years
 
-# Run on the 1st of every month at midnight UTC
+# Run on the 1st of every month at midnight UTC 
 on:
   schedule:
     - cron: '0 0 1 * *'
