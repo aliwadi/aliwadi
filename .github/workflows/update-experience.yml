@@ -15,7 +15,8 @@ jobs:
       - name: Calculate years since 2016
         id: years
         run: |
-          echo "::set-output name=years::$(( $(date +'%Y') - 2016 ))"
+          # GitHub’s new way to set outputs (instead of ::set-output)
+          echo "years=$(( $(date +'%Y') - 2016 ))" >> $GITHUB_OUTPUT
 
       - name: Update README
         run: |
@@ -25,4 +26,4 @@ jobs:
       - name: Commit & push changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: chore: update teaching‑years count
+          commit_message: "chore: update teaching-years count"
