@@ -1,0 +1,28 @@
+name: Update Experience Years
+
+# Run on the 1st of every month at midnight UTC
+on:
+  schedule:
+    - cron: '0 0 1 * *'
+
+jobs:
+  calc-and-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repo
+        uses: actions/checkout@v3
+
+      - name: Calculate years since 2016
+        id: years
+        run: |
+          echo "::set-output name=years::$(( $(date +'%Y') - 2016 ))"
+
+      - name: Update README
+        run: |
+          # replace the bold number with the new count
+          sed -i "s/\*\*[0-9]\+\*\*/**${{ steps.years.outputs.years }}**/" README.md
+
+      - name: Commit & push changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: chore: update teaching‑years count
