@@ -43,6 +43,8 @@ I specialize in Robotics, System Identification, Control Theory, Game Theory, Cy
 
 ---
 
+I am rarely involved in public repos, but ..
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aliwadi&show_icons=true&count_private=true&theme=dark&hide_border=true" alt="Ali’s GitHub stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=aliwadi&theme=dark&hide_border=true&background=00000000" alt="GitHub streak" width="48%"/>
