@@ -37,7 +37,7 @@ I specialize in Robotics, System Identification, Control Theory, Game Theory, Cy
 - 📚 [ResearchGate](https://www.researchgate.net/profile/Ali-Wadi)  
 - ✍️ [Publons](https://publons.com/researcher/3750839/ali-wadi/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/aliwadi/)  
-- 🌐 [Personal Website](https://www.aus.edu/faculty/ali-wadi)  
+- 🌐 [Personal Website](https://aliwadi.github.io)  
 - 💡 [Gists](https://gist.github.com/aliwadi)  
 - 🆔 [ORCID](https://orcid.org/0000-0002-4617-7026)
 
