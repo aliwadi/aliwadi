@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ali Wadi
 
-**Researcher │ Educator │ Mechanical & Aerospace Control Engineer**
+**Researcher │ Educator │ Mechanical & Aerospace Engineer**
 
 I'm an experienced academic with over **9** years of experience in higher education & scientific research, and I’m always looking for new research challenges and collaborations.
 I specialize in Robotics, System Identification, Control Theory, Game Theory, and Reinforcement Learning, all under the umbrella of Cyber-physical Systems.
